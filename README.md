@@ -1,2 +1,2 @@
 # Big-Mart-Sales-Analysis
-![screenshot](1.png)
+![Optional Text](../master/myFolder/1.png)
